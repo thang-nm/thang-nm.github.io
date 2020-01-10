@@ -27,6 +27,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  min-width: 320px;
 }
 
 
@@ -113,7 +114,6 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
   }
 
   .social-media-list &:hover {
@@ -149,14 +149,15 @@ blockquote {
  */
 pre,
 code {
-  @include relative-font-size(0.9375);
-  border: 1px solid $brand-color-light;
-  border-radius: 3px;
-  background-color: $code-background-color;
+  @include relative-font-size(0.85);
+  border-radius: 5px;
 }
 
 code {
-  padding: 1px 5px;
+  padding: 4px 6px;
+  background-color: $code-background-color;
+  color: $title-color;
+  font-family: 'Anonymous Pro', monospace;
 }
 
 pre {
@@ -167,15 +168,21 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+    font-family: 'Anonymous Pro', monospace;
   }
 }
 
 .highlight {
   background: $code-background-color;
+  border-radius: 5px;
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
     background: $code-background-color;
+  }
+
+  code {
+    background-color: transparent;
   }
 }
 

@@ -1,2 +1,78 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Header
+header {
+  .wrapper {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+// Home
+$home-width: 1300px !default;
+.wrapper-home {
+  max-width: -webkit-calc(#{$home-width} - (#{$spacing-unit}));
+  max-width:         calc(#{$home-width} - (#{$spacing-unit}));
+}
+
+.home {
+  .info {
+    padding-top: 6vw;
+    padding-bottom: 7vw;
+    text-align: center;
+  }
+
+  .title {
+    color: $text-bright-color;
+    font-size: 3em;
+    font-weight: 300;
+  }
+
+  .masonry {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    .article {
+      .title {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+        font-weight: 300;
+        color: $text-bright-color;
+      }
+
+      .description {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+      }
+    }
+  }
+}
+
+// Footer
+footer {
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    font-size: 0.9em;
+  }
+  
+  img.heart {
+    width: 14px;
+    height: 24px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
+
+// Responsive
+@media screen and (min-width: $on-wide-pc) {
+  .home {
+    .info {
+      padding-top: 85px;
+      padding-bottom: 100px;
+    }
+  }
+}

@@ -4,3 +4,30 @@
 
 layout: home
 ---
+
+<div class="home">
+  <div class="info">
+    <h1 class="title">@thang-nm</h1>
+    <h3>Just a guy likes designing and coding.</h3>
+  </div>
+
+  <div class="masonry">
+    {%- for post in site.posts -%}
+      <div class="article">
+        <div class="thumb">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <img src="{{ post.thumbnail }}">
+          </a>
+        </div>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <h2 class="title">{{ post.title }}</h2>
+        </a>
+        <p class="description">{{ post.description }}</p>
+      </div>
+    {%- endfor -%}
+  </div>
+</div>
+
+<script type="text/javascript" src="/assets/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/macy.js"></script>
+<script type="text/javascript" src="/assets/js/script.js"></script>
