@@ -212,8 +212,7 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $brand-color;
+  font-size: $base-font-size;
   text-align: center;
 }
 
@@ -231,20 +230,32 @@
   margin-bottom: 2 * $spacing-unit;
 }
 
-.post-title,
-.post-content h1 {
+.post-title {
   @include relative-font-size(3);
   line-height: 1;
   color: $text-bright-color;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
 }
 
 .post-content {
+  @include relative-font-size(1.2);
   margin-bottom: 2 * $spacing-unit;
+
+  h1 {
+    @include relative-font-size(2);
+    color: $text-bright-color;
+    font-weight: 400;
+
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(2.2);
+    }
+  }
 
   h2 {
     @include relative-font-size(1.75);
+    color: $title-color;
+    font-weight: 400;
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);
@@ -253,6 +264,7 @@
 
   h3 {
     @include relative-font-size(1.375);
+    color: $title-color;
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.625);
@@ -268,14 +280,8 @@
   }
 
   img {
-    width: 100%;
+    max-width: 100%;
     margin-bottom: $spacing-unit;
-  }
-
-  p:nth-child(2)::first-letter {
-    font-size: 3em;
-    font-weight: 300;
-    color: $text-bright-color;  
   }
 }
 

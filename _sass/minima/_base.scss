@@ -6,7 +6,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-
 }
 
 
@@ -57,7 +56,6 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
   vertical-align: middle;
 }
 
@@ -113,7 +111,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($link-base-color, 20%);
   }
 
   .social-media-list &:hover {
@@ -130,11 +128,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $brand-color-light;
+  border-left: 2px solid $brand-color-light;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {
@@ -154,10 +149,10 @@ code {
 }
 
 code {
-  padding: 4px 6px;
+  padding: 5px 8px 5px 10px;
   background-color: $code-background-color;
   color: $title-color;
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Fira Code', monospace;
 }
 
 pre {
@@ -168,18 +163,14 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
-    font-family: 'Anonymous Pro', monospace;
+    font-family: 'Fira Code', monospace;
   }
 }
 
-.highlight {
+pre.highlight {
   background: $code-background-color;
   border-radius: 5px;
   @extend %vertical-rhythm;
-
-  .highlighter-rouge & {
-    background: $code-background-color;
-  }
 
   code {
     background-color: transparent;
@@ -255,17 +246,15 @@ table {
   border: 1px solid $table-border-color;
   tr {
     &:nth-child(even) {
-      background-color: $table-zebra-color;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
+    border: 1px solid $brand-color-light;
   }
   td {
-    border: 1px solid $table-border-color;
+    border: 1px solid $brand-color-light;
   }
 }

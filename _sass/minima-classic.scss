@@ -10,8 +10,8 @@ $text-color:            #9aa0a5 !default;
 $background-color:      #111314 !default;
 $code-background-color: rgba(97, 97, 97, 0.1);
 
-$link-base-color:       #2a7ae2 !default;
-$link-visited-color:    darken($link-base-color, 15%) !default;
+$link-base-color:       #3399FF !default;
+$link-visited-color:    darken($link-base-color, 1%) !default;
 
 $table-text-color:      lighten($text-color, 18%) !default;
 $table-zebra-color:     lighten($brand-color, 46%) !default;
