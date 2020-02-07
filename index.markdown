@@ -8,7 +8,7 @@ layout: home
 <div class="home">
   <div class="info">
     <h1 class="title">@thang-nm</h1>
-    <h3>Just a guy likes designing and coding.</h3>
+    <h3>I code and crack!</h3>
   </div>
 
   <div class="masonry">
