@@ -4,10 +4,10 @@ title: Sherlock Cracked
 description: Cracked version for Sherlock
 date: 2020-02-02 15:49:02 +0700
 categories: cracking
-thumbnail: https://pbs.twimg.com/media/EAG1XjlW4AAk7ol?format=jpg&name=medium
+thumbnail: /assets/img/sherlock.jpeg
 ---
 
-![](https://pbs.twimg.com/media/EAG1XjlW4AAk7ol?format=jpg&name=medium)
+![](/assets/img/sherlock.jpeg)
 
 ## 💽 &nbsp; Sherlock
 Give your iOS Simulator superpowers
