@@ -9,19 +9,25 @@ thumbnail: https://i1.wp.com/wp.laravel-news.com/wp-content/uploads/2018/03/towe
 
 ![](https://i1.wp.com/wp.laravel-news.com/wp-content/uploads/2018/03/tower-beta.png?resize=2200%2C1125)
 
-<!-- {:.first-large-letter} -->
-# 🗼 Tower
-> The most powerful Git client for Mac and Windows<br>
-[https://www.git-tower.com/mac](https://www.git-tower.com/mac)
+## 💽 &nbsp; Tower
+The most powerful Git client for Mac and Windows
+<br/>
+<a href="https://www.git-tower.com">https://www.git-tower.com</a>
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/cracked-3.6.0-green?style=flat"/>
 
-<br>
-### 📦 Download
-GitHub release page:
+## 📦 &nbsp; Installation
+1. Goto: [Release page](https://github.com/thang-nm/Tower-cracked/releases) and download.
+1. Extract, then copy app to **Applications**.
+1. Run & Enjoy!
 
-[https://github.com/thang-nm/Tower-cracked/releases](https://github.com/thang-nm/Tower-cracked/releases){:.text-link}
+## ⚠️ &nbsp; Warning
+- If you can't run app, please take a look at [http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper](http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper)
+- If you use my cracked on your site, please add refer link to this repo.
 
-Latest version: 3.6.0 (build 250)
+## ⭐️ &nbsp; Star, Watch, Fork
+If it's helpful for you, please star this repo. You can watch to receive notification. And feel free to fork.
 
-<br>
-### ⚠️ Note
-If you have trouble with running app, please take a look at [http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper](http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper/){:.text-link}
+## 📃 &nbsp; License
+&copy; 2020 - [@thangnm](https://thang-nm.github.io)
