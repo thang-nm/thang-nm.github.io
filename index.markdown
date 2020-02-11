@@ -7,7 +7,7 @@ layout: home
 
 <div class="home">
   <div class="info">
-    <h1 class="title">@thang-nm</h1>
+    <h1 class="title"><a href="https://github.com/thang-nm">@thang-nm</a></h1>
     <h3>I code and crack!</h3>
   </div>
 

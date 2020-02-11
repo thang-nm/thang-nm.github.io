@@ -27,6 +27,14 @@ $home-width: 1300px !default;
     color: $text-bright-color;
     font-size: 3em;
     font-weight: 400;
+
+    a {
+      color: $text-bright-color;
+
+      &:hover {
+        color: $text-color;
+      }
+    }
   }
 
   .masonry {
