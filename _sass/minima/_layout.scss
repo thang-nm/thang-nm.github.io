@@ -5,9 +5,9 @@
   border-bottom: 1px solid $brand-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  width: 100%;
+  background-color: $background-color;
 }
 
 .site-title {
@@ -190,7 +190,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 3 * $spacing-unit 0 $spacing-unit;
   flex: 1 0 auto;
 }
 

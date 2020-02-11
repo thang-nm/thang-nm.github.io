@@ -144,7 +144,7 @@ blockquote {
  */
 pre,
 code {
-  @include relative-font-size(0.85);
+  @include relative-font-size(1);
   border-radius: 5px;
 }
 
@@ -152,7 +152,7 @@ code {
   padding: 5px 8px 5px 10px;
   background-color: $code-background-color;
   color: $title-color;
-  font-family: 'Fira Code', monospace;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 pre {
@@ -163,7 +163,7 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
-    font-family: 'Fira Code', monospace;
+    font-family: 'JetBrains Mono', monospace;
   }
 }
 
