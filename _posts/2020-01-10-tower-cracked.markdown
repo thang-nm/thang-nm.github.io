@@ -23,7 +23,7 @@ The most powerful Git client for Mac and Windows
 1. Run & Enjoy!
 
 ## ⚠️ &nbsp; Warning
-- If you can't run app, please take a look at [http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper](http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper)
+- If you can't run app, please take a look at [allow apps from anywhere](http://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper).
 - If you use my cracked on your site, please add refer link to this repo.
 
 ## ⭐️ &nbsp; Star, Watch, Fork
