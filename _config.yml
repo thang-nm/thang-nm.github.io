@@ -6,7 +6,7 @@ baseurl: ""
 url: ""
 github_username: thang-nm
 
-theme: mindark
+remote_theme: thang-nm/mindark
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
