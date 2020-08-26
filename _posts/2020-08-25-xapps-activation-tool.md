@@ -8,36 +8,36 @@ image: /assets/img/xapps.png
 
 ![XApps](/assets/img/xapps-screenshot.png)
 
-I made an app that helps you activate some apps for macOS. \
-Hope you guy like it!
+I made a tool that helps you activate some apps for macOS. Hope you guy like it!
 
 ## Download
-You can download app here: [Dropbox](https://www.dropbox.com/s/f5ik5ib2k0y832b/XApps-0.0.1.app.zip?dl=0).
-Lastest version: `0.0.1` (14 apps)
+You can download here: [Dropbox](https://www.dropbox.com/s/p65o6m4g8rwxl75/XApps-0.0.2.app.zip?dl=1).
+Latest version: `0.0.2` (14 apps)
 
-## How to use
-This app doesn't have any signature, so you need to do [`this`]() to launch this app.
-Don't worry about it, because it's very safe.
+## How to launch
+This app doesn't have any signature, so you need to do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper) to launch this app.
+Don't worry about it, because it's safe. And you know that you need to do this to run other ked apps!
 
 
 ## Supported apps
-You can figure out after you launch this app and see in `Supported apps` menu.
+You can figure out supported app in `Supported apps` menu after you launch this app.
 
 ## Two types of activation
 
-#### `Almost Done`
+### `Almost Done`
 
-That means you need to register with your email and random license.
-License key is maybe a long enough string of random character, or like sample format, or md5 hash of somethings, ...
-You can try until you get activated.
+That means you need to register with your email and random license key.
+License key is maybe a long enough string of random characters, like sample format, or hash of something, ...
+You can try to activate until you get activated state.
 
-Almost all app with this type, you can feel free to update and dont need to reactive. Because your app has a license.
+Mayny apps with this type, you can feel free to update and don't need to reactivate. Because it kept the license info and didn't check again. But others did not.
 
-#### `Done`
+### `Done`
 
-You can use app now without do anything. But.. when you got an app update, you need to reactive.
+You can use the app right now without do anything. But.. when you get a new version, you need to reactivate.
 
 ## Note for both type
 
-Version in `Supported apps` menu is the latest it work with, but you can try with the new one. \
-If the new update has the same way to active with the older, XApps still can activate it.
+Version in `Supported apps` menu is the latest version I work with, but you can try with the new one. If the new version has the same mechanical, XApps still can activate it.
+
+Hope it's helpful for you.
