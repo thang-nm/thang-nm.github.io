@@ -40,4 +40,5 @@ You can use the app right now without do anything. But.. when you get a new vers
 
 Version in `Supported apps` menu is the latest version I work with, but you can try with the new one. If the new version has the same mechanical, XApps still can activate it.
 
-Hope it's helpful for you.
+If it's helpful for you, you can [buy me a ![coffee](/assets/img/coffee.svg)](https://www.buymeacoffee.com/thangnm){:.buy-me-a-coffee}. 
+Thank you!

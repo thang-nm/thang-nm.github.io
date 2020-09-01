@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="28px" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coffee" transform="translate(1.000000, 1.000000)">
+            <polygon id="Path" fill="#FF9100" points="8.8591 5.2291 1.9925 5.1877 5.3645 26.491 6.1002 26.491 12.8442 26.491 13.5799 26.491 16.9518 5.1877"></polygon>
+            <polygon id="Path" fill="#FFDD00" points="8.8591 5.2291 1.9925 5.1877 5.3645 26.491 6.1002 26.491 11.1275 26.491 11.8632 26.491 15.2352 5.1877"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="0.0306 5.1877 17.7488 5.1877 17.7488 3.2231 0.0306 3.2231"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="0.919629" points="0.0306 5.1877 17.7488 5.1877 17.7488 3.2231 0.0306 3.2231"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="14.3156 0.0307 10.0853 0.0307 7.5716 0.0307 3.3413 0.0307 2.0538 2.97756 7.5716 2.97756 10.0853 2.97756 15.603 2.97756"></polygon>
+            <polygon id="Path" stroke="#050505" stroke-width="0.919629" points="14.3156 0.0307 10.0853 0.0307 7.5716 0.0307 3.3413 0.0307 2.0539 2.97756 7.5716 2.97756 10.0853 2.97756 15.6031 2.97756"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="0.919629" points="8.8591 5.2291 0.7664 5.1877 4.1383 26.491 4.874 26.491 12.8442 26.491 13.5799 26.491 16.9518 5.1877"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="17.1971 11.2042 9.119 11.2042 8.5379 11.2042 0.4598 11.2042 1.9708 19.6764 8.8284 19.6026 15.6861 19.6764"></polygon>
+            <polygon id="Path" stroke="#000000" stroke-width="0.919629" points="17.1971 11.2042 9.119 11.2042 8.5379 11.2042 0.4598 11.2042 1.9708 19.6764 8.8284 19.6026 15.6861 19.6764"></polygon>
+        </g>
+    </g>
+</svg>

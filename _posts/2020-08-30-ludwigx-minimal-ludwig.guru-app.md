@@ -37,3 +37,5 @@ that helps you write better English by giving you contextualized examples taken 
 
 Latest version: [https://github.com/thang-nm/Ludwigx/releases/latest](https://github.com/thang-nm/Ludwigx/releases/latest) \
 And don't forget do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper/) to run app.
+
+If it's helpful for you, you can [buy me a ![coffee](/assets/img/coffee.svg)](https://www.buymeacoffee.com/thangnm){:.buy-me-a-coffee}. Thank you!
