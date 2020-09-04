@@ -2,11 +2,11 @@
 layout: post
 title: Ludwigx
 author: Thang Nguyen
-excerpt: "Minimal ludwig.guru app for macOS on your menu bar without limitation."
-image: /assets/img/ludwigx.png
+excerpt: "Minimal native ludwig.guru app for macOS on your menu bar without limitation."
+image: /assets/img/articles/ludwigx.png
 ---
 
-![Ludwigx](/assets/img/ludwigx-screenshot.png)
+![Ludwigx](/assets/img/articles/ludwigx-screenshot.png)
 
 ## What is Ludwig?
 
@@ -17,7 +17,7 @@ that helps you write better English by giving you contextualized examples taken 
 
 `Ludwigx` is a minimal ludwig.guru app that I made for macOS with some pros for free users.
 
-### Pros  
+### Pros
 - Unlimited Daily Searches.
 - Up to 60 results.
 - Light (~13MB), Native (built with Swift).

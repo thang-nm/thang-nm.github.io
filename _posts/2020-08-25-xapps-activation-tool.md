@@ -2,11 +2,11 @@
 layout: post
 title: XApps activatation tool
 author: Thang Nguyen
-excerpt: "Amazing tool i made for macOS helps you active some apps without download whole ked app."
-image: /assets/img/xapps.png
+excerpt: "Amazing tool I made for macOS that helps you active some apps without download whole ked app."
+image: /assets/img/articles/xapps.png
 ---
 
-![XApps](/assets/img/xapps-screenshot.png)
+![XApps](/assets/img/articles/xapps-screenshot.png)
 
 I made a tool that helps you activate some apps for macOS. Hope you guy like it!
 

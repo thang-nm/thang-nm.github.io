@@ -2,22 +2,48 @@
 layout: post
 title: Mindark Jekyll theme
 author: Thang Nguyen
-excerpt: "A super minimal dark theme for Jekyll. This post content is the demo."
-image: assets/img/mindark.png
-poster: https://images.unsplash.com/photo-1498946550856-a8c16e64cb4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+excerpt: "Super minimal dark theme for Jekyll. Made it for my GitHub Page. You can use if you like."
+image: assets/img/articles/mindark.png
+poster: https://images.unsplash.com/photo-1498946550856-a8c16e64cb4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1280&q=80
 ---
 
-Mindark is a super minimal Jekyll theme. Made it for my [GitHub page](https://github.com/thang-nm/thang-nm.github.io).
+Mindark is a super minimal Jekyll theme with masonry layout (three columns). Made it from scratch for my GitHub Page. This post contains a demo. If you like it, you can install it by following the installation guide.
 
-`Source code`: [https://github.com/thang-nm/Mindark](https://github.com/thang-nm/Mindark)
+## Installation
+
+- Add this line to your Jekyll site's `Gemfile`:
+
+```yml
+gem "mindark"
+```
+
+- And then execute:
+
+```yml
+bundle
+```
+
+- Config site's theme with `_config.yml`:
+
+```yml
+theme: mindark
+```
+
+If you use GitHub Page, add this line instead:
+
+```yml
+remote_theme: thang-nm/mindark
+```
+
+
+## Source code
+
+If you wanna override anything, please take a look at: \
+[https://github.com/thang-nm/Mindark](https://github.com/thang-nm/Mindark)
 
 ---
 
 # Demo
-
-## Typeface
-`Inter` [https://fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter) \
-`JetBrains Mono` [https://www.jetbrains.com/lp/mono](https://www.jetbrains.com/lp/mono)
 
 ## Paragraph
 
@@ -28,16 +54,15 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ## Emphasis
 
-**Strong** *Italic* `Code` [Link](https://example.com)
+[Lorem ipsum](https://www.lipsum.com) dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud **exercitation** ullamco laboris nisi ut aliquip ex ea *commodo
+consequat*. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat `cupidatat` non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ## Blockquote
 
@@ -45,8 +70,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+cillum dolore eu fugiat nulla pariatur.
 >> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 

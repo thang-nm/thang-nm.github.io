@@ -1,12 +1,124 @@
 ---
 ---
 
-.buy-me-a-coffee {
-  color: #FFDD00;
+@import "variables";
 
-  img {
-    display: inline-block;
-    vertical-align: text-bottom;
-    margin-bottom: 2px;
+.apps {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  margin: auto;
+  margin-bottom: $spacing / 2;
+  @media screen and (max-width: 767px) {
+    width: 100%;
+  }
+
+  .app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33.33%;
+    margin-top: $spacing * 2 / 3;
+
+    a {
+      text-align: center;
+    }
+  }
+
+  .app-icon {
+    width: 128px;
+    height: 128px;
+    @media screen and (max-width: 575px) {
+      width: 96px;
+      height: 96px;
+    }
+  }
+
+  .app-name {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: normal;
+    color: #b1b2b3;
+    @media screen and (max-width: 575px) {
+      margin-top: 0px;
+      font-size: 14px;
+    }
+  }
+}
+
+.post {
+  .buy-me-a-coffee {
+    color: #FFDD00;
+
+    img {
+      display: inline-block;
+      vertical-align: text-bottom;
+      margin-bottom: 2px;
+    }
+  }
+}
+
+#me {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: $spacing * 2;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    @media screen and (max-width: 575px) {
+      width: 100px;
+      height: 100px;
+    }
+
+    img {
+      width: 101%;
+      margin: auto;
+    }
+  }
+
+  .name {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-weight: bold;
+  }
+
+  .title {
+    margin-top: 0px;
+  }
+
+  .description {
+    width: 80%;
+    max-width: 666px;
+    text-align: center;
+    @media screen and (max-width: 767px) {
+      width: 100%;
+    }
+  }
+
+  .languages {
+    display: flex;
+    flex-direction: row;
+
+    .language {
+      margin-left: 15px;
+      margin-right: 15px;
+
+      img {
+        width: 48px;
+        height: 48px;
+      }
+    }
   }
 }

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sketch</title>
+    <defs>
+        <polygon id="path-1" points="16 3.68216478e-15 16 28.9554656 6.93117409 27.9838057 1.10464944e-14 18.5910931"></polygon>
+        <filter x="-798.5%" y="-310.8%" width="1697.0%" height="721.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="30" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <polygon id="path-4" points="11.2712551 -3.68216478e-15 11.2712551 28.9554656 5.05263158 27.9838057 2.57751535e-14 18.5910931"></polygon>
+        <filter x="-1561.1%" y="-310.8%" width="3222.2%" height="721.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="30" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="88.7640449%" y1="50%" x2="38.7640449%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#FCCE00" offset="0%"></stop>
+            <stop stop-color="#FEE686" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="sketch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch" transform="translate(0.000000, 2.000000)">
+            <polygon id="Polygon" fill="#FED305" transform="translate(16.000000, 14.477733) rotate(-180.000000) translate(-16.000000, -14.477733) " points="16 0 32 18.5910931 25.0688259 27.9838057 16 28.9554656 6.93117409 27.9838057 -7.36432957e-15 18.5910931"></polygon>
+            <g id="3rd-Flip" transform="translate(16.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Polygon" fill="#FFBA00" transform="translate(8.000000, 14.477733) rotate(-180.000000) translate(-8.000000, -14.477733) " xlink:href="#path-1"></use>
+                <polygon id="Polygon" fill="#D43C00" filter="url(#filter-3)" mask="url(#mask-2)" transform="translate(5.635628, 13.959514) rotate(-180.000000) translate(-5.635628, -13.959514) " points="11.2712551 -0.518218623 11.2712551 28.437247 5.05263158 27.465587 -3.68216478e-15 18.0728745"></polygon>
+            </g>
+            <g id="2nd-Flip" transform="translate(16.000000, 0.000000)">
+                <polygon id="Polygon" fill="#FCF197" transform="translate(5.700405, 14.477733) rotate(-180.000000) translate(-5.700405, -14.477733) " points="11.4008097 0 11.4008097 28.9554656 5.05263158 27.9838057 1.84108239e-15 18.5910931"></polygon>
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Polygon" fill="#FDE328" transform="translate(5.635628, 14.477733) rotate(-180.000000) translate(-5.635628, -14.477733) " xlink:href="#path-4"></use>
+                <polygon id="Polygon" fill="#EC6C00" filter="url(#filter-6)" mask="url(#mask-5)" transform="translate(2.882591, 14.477733) rotate(-180.000000) translate(-2.882591, -14.477733) " points="5.76518219 -3.68216478e-15 5.76518219 28.9554656 2.91497976 27.9838057 1.21511438e-13 18.5910931"></polygon>
+            </g>
+            <g id="1st-Flip" transform="translate(16.000000, 0.000000)">
+                <polygon id="Polygon" fill="#FFF5CC" transform="translate(2.947368, 14.477733) rotate(-180.000000) translate(-2.947368, -14.477733) " points="5.89473684 0 5.89473684 28.9554656 2.91497976 27.9838057 1.17829273e-13 18.5910931"></polygon>
+                <polygon id="Polygon" fill="url(#linearGradient-7)" transform="translate(2.882591, 14.477733) rotate(-180.000000) translate(-2.882591, -14.477733) " points="5.76518219 -3.68216478e-15 5.76518219 28.9554656 2.91497976 27.9838057 1.21511438e-13 18.5910931"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
