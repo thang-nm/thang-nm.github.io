@@ -11,8 +11,8 @@ image: /assets/img/articles/xapps.png
 I made a tool that helps you activate some apps for macOS. Hope you guy like it!
 
 ## Download
-You can download here: [Dropbox](https://www.dropbox.com/s/4ndl163sqc1oio1/XApps-0.0.3.app.zip?dl=1).
-Latest version: `0.0.3` (15 apps)
+You can download here: [Dropbox](https://www.dropbox.com/s/pvqsjkk3ssv9ngt/XApps-0.0.4.app.zip?dl=1).
+Latest version: `0.0.4` (17 apps)
 
 ## How to launch
 This app doesn't have any signature, so you need to do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper) to launch this app.
