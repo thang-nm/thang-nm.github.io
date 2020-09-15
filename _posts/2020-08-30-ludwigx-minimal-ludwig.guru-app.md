@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ludwigx
+title: Ludwigx for macOS
 author: Thang Nguyen
 excerpt: "Minimal native ludwig.guru app for macOS on your menu bar without limitation."
 image: /assets/img/articles/ludwigx.png
