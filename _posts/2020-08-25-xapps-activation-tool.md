@@ -11,15 +11,16 @@ image: /assets/img/articles/xapps.png
 I made a tool that helps you activate some apps for macOS. Hope you guy like it!
 
 ## Download
-You can download here: [Dropbox](https://www.dropbox.com/s/pvqsjkk3ssv9ngt/XApps-0.0.4.app.zip?dl=1).
-Latest version: `0.0.4` (17 apps)
+
+Latest version: [Dropbox](https://www.dropbox.com/sh/lkp1efbs2svcw92/AAAjl7DxAqfPlsdI72Nlj0iVa?dl=0).
 
 ## How to launch
+
 This app doesn't have any signature, so you need to do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper) to launch this app.
 Don't worry about it, because it's safe. And you know that you need to do this to run other ked apps!
 
-
 ## Supported apps
+
 You can figure out supported app in `Supported apps` menu after you launch this app.
 
 ## Two types of activation
@@ -40,5 +41,5 @@ You can use the app right now without do anything. But.. when you get a new vers
 
 Version in `Supported apps` menu is the latest version I work with, but you can try with the new one. If the new version has the same mechanical, XApps still can activate it.
 
-If it's helpful for you, you can [buy me a ![coffee](/assets/img/coffee.svg)](https://www.buymeacoffee.com/thangnm){:.buy-me-a-coffee}. 
+If it's helpful for you, you can [buy me a ![coffee](/assets/img/coffee.svg)](https://www.buymeacoffee.com/thangnm){:.buy-me-a-coffee}.
 Thank you!
