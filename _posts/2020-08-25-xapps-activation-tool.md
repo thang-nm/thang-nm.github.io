@@ -17,7 +17,6 @@ Latest version: [Dropbox](https://www.dropbox.com/sh/lkp1efbs2svcw92/AAAjl7DxAqf
 ## How to launch
 
 This app doesn't have any signature, so you need to do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper) to launch this app.
-Don't worry about it, because it's safe. And you know that you need to do this to run other ked apps!
 
 ## Supported apps
 
