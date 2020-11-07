@@ -8,19 +8,22 @@ image: /assets/img/articles/xapps.png
 
 ![XApps](/assets/img/articles/xapps-screenshot.png)
 
-I made a tool that helps you activate some apps for macOS. Hope you guy like it!
+Based on my knowledge of Assembly and Mach-O, I made a tool that helps me activate some apps for macOS.
+
+## Supported apps
+You can see [change logs](https://headwayapp.co/xapps-changelog) here.
+
 
 ## Download
 
-Latest version: [Dropbox](https://www.dropbox.com/sh/lkp1efbs2svcw92/AAAjl7DxAqfPlsdI72Nlj0iVa?dl=0).
+Thank you for reading this article. Maybe you don't know that since I made somes repos public, they have been taken down by GitHub. So I kept it private.
+
+If you need it, want to try or wanna know how it works, please contact me. I will send you link to download it. Thank you!
+
 
 ## How to launch
 
 This app doesn't have any signature, so you need to do [this](https://osxdaily.com/2016/09/27/allow-apps-from-anywhere-macos-gatekeeper) to launch this app.
-
-## Supported apps
-
-You can figure out supported app in `Supported apps` menu after you launch this app.
 
 ## Two types of activation
 
@@ -38,7 +41,4 @@ You can use the app right now without do anything. But.. when you get a new vers
 
 ## Note for both type
 
-Version in `Supported apps` menu is the latest version I work with, but you can try with the new one. If the new version has the same mechanical, XApps still can activate it.
-
-If it's helpful for you, you can [buy me a ![coffee](/assets/img/coffee.svg)](https://www.buymeacoffee.com/thangnm){:.buy-me-a-coffee}.
-Thank you!
+Version in `Supported apps` menu is the latest version I work with, but you can try with the new one. If the new version has the same mechanism, XApps still can activate it.
