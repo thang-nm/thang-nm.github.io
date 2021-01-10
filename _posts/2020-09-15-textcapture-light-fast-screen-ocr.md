@@ -22,7 +22,7 @@ If you miss this toast, you can see the status bar icon.
 - `𐄂` means it got error. Something went wrong. You may need to retry!
 
 ## Download
-You can download from [Dropbox](https://www.dropbox.com/s/5g3hqjy0500ya6w/TextCapture-0.0.1.app.zip?dl=0).
+You can download from [Dropbox](https://www.dropbox.com/s/sau1vugh5gmuciv/TextCapture-0.0.1.app.zip?dl=0).
 
 ## Supported languages
 Many! You can find [here](https://cloud.google.com/vision/docs/languages#supported-langs).
